@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/weird-trust/tropicali#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^3.9.1"
   }
 }
